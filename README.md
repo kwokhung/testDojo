@@ -1,5 +1,6 @@
 npm install -g @dojo/cli
 npm install -g @dojo/cli-create-app
+
 dojo create app --name testDojo
 
 1. Init Repo (VSCode)
