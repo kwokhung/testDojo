@@ -12,3 +12,5 @@ dojo create app --name testDojo
 
 4. Push Origin Master
 -> git push -u origin master
+
+dojo build --mode dev --watch --serve
